@@ -5,4 +5,4 @@ Add this Bot to the server you want to nuke: https://discord.com/oauth2/authoriz
 
 ### How To Use
 
-[Tutorial](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Tutorial](https://youtu.be/-KKasVZy9Fo)
